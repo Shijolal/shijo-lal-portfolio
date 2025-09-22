@@ -4,7 +4,7 @@
 Welcome to my portfolio repository! With over 9 years of experience in process improvement, supply chain management, and operational excellence across industries like manufacturing, logistics, and service operations, I specialize in driving cost reduction, customer experience improvement, and process efficiency.
 
 ## 📄 Resume  
-You can view or download my resume [here](assets/Resume%20-%20Shijo_Lal_SCE.pdf).
+You can view or download my resume [here](assets/Resume%20-%20Shijolal.pdf).
 
 ## 🛠️ Core Skills & Certifications
 - Lean Six Sigma Black Belt  
