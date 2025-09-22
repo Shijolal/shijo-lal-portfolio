@@ -50,8 +50,6 @@ You can view or download my resume [here](assets/Resume%20-%20Shijolal.pdf).
 
 ## 📫 Contact
 - 📍 Location: Open to Onsite, Hybrid & Remote roles (Pan-India & Global)  
-- 📧 Email: [shijoreubenlal@gmail.com](mailto:shijoreubenlal@gmail.com)  
-- 📞 Phone: +91-8151869093  
 - 🔗 LinkedIn: [linkedin.com/in/shijo-lal32a088114](https://www.linkedin.com/in/shijo-lal32a088114/)
 
 ---
