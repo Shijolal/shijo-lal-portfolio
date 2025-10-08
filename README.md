@@ -51,7 +51,7 @@ You can view or download my detailed projects portfolio [here](assets/Portfolio%
 - CX: NPS, CSAT, VOC, Journey Mapping  
 
 ## 📫 Contact
-- 📍 Location: Open to Onsite, Hybrid & Remote roles (Pan-India & Global)  
+- 📍 Location: Open to roles in Bengaluru & Hyderabad - Onsite, Hybrid & Remote roles (Pan-India & Global)  
 - 🔗 LinkedIn: [linkedin.com/in/shijo-lal32a088114](https://www.linkedin.com/in/shijo-lal32a088114/)
 
 ---
