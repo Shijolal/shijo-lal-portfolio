@@ -5,7 +5,7 @@ Welcome to my portfolio repository! With over 9 years of experience in process i
 
 ## 📄 Resume  
 You can view or download my resume [here](assets/Resume%20-%20Shijo_Lal_Updated.pdf).
-You can view or download my detailed projects portfolio [here](assets/Resume%20-%20Shijo_Lal_Updated.pdf).
+You can view or download my detailed projects portfolio [here](assets/Portfolio%20-%20Shijo_Lal.pdf).
 
 ## 🛠️ Core Skills & Certifications
 - Lean Six Sigma Black Belt - Certified  
