@@ -5,9 +5,10 @@ Welcome to my portfolio repository! With over 9 years of experience in process i
 
 ## 📄 Resume  
 You can view or download my resume [here](assets/Resume%20-%20Shijo_Lal_Updated.pdf).
+You can view or download my detailed projects portfolio [here](assets/Resume%20-%20Shijo_Lal_Updated.pdf).
 
 ## 🛠️ Core Skills & Certifications
-- Lean Six Sigma Black Belt  
+- Lean Six Sigma Black Belt - Certified  
 - Supply Chain Analytics  
 - ERP Tools: Zoho, SAP B1  
 - Inventory & Warehouse Optimization  
@@ -44,7 +45,8 @@ You can view or download my resume [here](assets/Resume%20-%20Shijo_Lal_Updated.
 ## 🧰 Tools & Methodologies
 - Lean Six Sigma: DMAIC, DMADV, SIPOC, FMEA, Fishbone, 5 Whys, Pareto, Control Charts, Kaizen, 5S  
 - Optimization: Excel Solver, Power BI  
-- ERP: SAP B1, Zoho Inventory  
+- ERP: SAP B1, Zoho Inventory
+- Project Management: Monday.com, Jira  
 - Automation: Barcode, RFID  
 - CX: NPS, CSAT, VOC, Journey Mapping  
 
